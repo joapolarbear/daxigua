@@ -39,7 +39,7 @@
 
 > 如果要替换为一键部署自己的仓库，要先 fork 我的仓库，本地修改后再提交到自己 fork 的仓库，最后把一键部署按钮仓库地址改为自己的仓库即可！
 
-[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https://github.com/liyupi/daxigua&branch=master)
+[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https://github.com/joapolarbear/daxigua&branch=master)
 
 
 ### 本地启动
@@ -153,3 +153,9 @@
 11. 为什么打开网站白屏了？
     
     答：大概率是你修改错误，导致一些文件缺失。。可以试试重新下载代码，再修改，请先确保本地可以运行，再发布！
+
+
+### 替换声音
+`bb`: 爆炸声音
+`d2`: 水里冒泡声音（没在游戏里听到过）
+`d3`: 触碰地板声音

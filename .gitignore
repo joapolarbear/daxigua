@@ -1,2 +1,7 @@
 .idea
 .vercel
+package.json
+package-lock.json
+.package-lock.json
+backup
+.DS_Store
